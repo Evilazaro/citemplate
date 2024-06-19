@@ -55,4 +55,5 @@ jobs:
         release_name: Release ${{ github.ref }}
         draft: false
         prerelease: false
+        artifacts: my-artifact
 
